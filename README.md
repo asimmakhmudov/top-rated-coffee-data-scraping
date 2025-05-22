@@ -8,7 +8,6 @@ This project analyzes high-rated coffee data from Coffee Review. It involves scr
 - **[`cleaning.ipynb`](cleaning.ipynb)**: Data cleaning notebook that processes and transforms the raw data
 - **[`top-rated-coffee.csv`](top-rated-coffee.csv)**: Raw coffee review data
 - **[`top-rated-coffee-clean.csv`](top-rated-coffee-clean.csv)**: Cleaned and processed dataset
-- **[`what-is-beautifulsoup.jpg`](what-is-beautifulsoup.jpg)**: Image explaining BeautifulSoup library
 
 ## Data Collection
 The project scrapes coffee review data from [Coffee Review](https://www.coffeereview.com) using:
